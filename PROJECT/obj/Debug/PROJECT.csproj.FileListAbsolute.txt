@@ -1,0 +1,36 @@
+E:\PROJECT\PROJECT\bin\Debug\PROJECT.exe.config
+E:\PROJECT\PROJECT\bin\Debug\PROJECT.exe
+E:\PROJECT\PROJECT\bin\Debug\PROJECT.pdb
+E:\PROJECT\PROJECT\obj\Debug\PROJECT.csprojResolveAssemblyReference.cache
+E:\PROJECT\PROJECT\obj\Debug\PROJECT.Form1.resources
+E:\PROJECT\PROJECT\obj\Debug\PROJECT.Properties.Resources.resources
+E:\PROJECT\PROJECT\obj\Debug\PROJECT.csproj.GenerateResource.Cache
+E:\PROJECT\PROJECT\obj\Debug\PROJECT.exe
+E:\PROJECT\PROJECT\obj\Debug\PROJECT.pdb
+E:\graphics project\computer-graphics--master\PROJECT\bin\Debug\PROJECT.exe.config
+E:\graphics project\computer-graphics--master\PROJECT\bin\Debug\PROJECT.exe
+E:\graphics project\computer-graphics--master\PROJECT\bin\Debug\PROJECT.pdb
+E:\graphics project\computer-graphics--master\PROJECT\obj\Debug\PROJECT.csprojAssemblyReference.cache
+E:\graphics project\computer-graphics--master\PROJECT\obj\Debug\PROJECT.Form1.resources
+E:\graphics project\computer-graphics--master\PROJECT\obj\Debug\PROJECT.Properties.Resources.resources
+E:\graphics project\computer-graphics--master\PROJECT\obj\Debug\PROJECT.csproj.GenerateResource.cache
+E:\graphics project\computer-graphics--master\PROJECT\obj\Debug\PROJECT.exe
+E:\graphics project\computer-graphics--master\PROJECT\obj\Debug\PROJECT.pdb
+E:\graphics project\package\computer-graphics--master\PROJECT\bin\Debug\PROJECT.exe.config
+E:\graphics project\package\computer-graphics--master\PROJECT\bin\Debug\PROJECT.exe
+E:\graphics project\package\computer-graphics--master\PROJECT\bin\Debug\PROJECT.pdb
+E:\graphics project\package\computer-graphics--master\PROJECT\obj\Debug\PROJECT.csprojAssemblyReference.cache
+E:\graphics project\package\computer-graphics--master\PROJECT\obj\Debug\PROJECT.Form1.resources
+E:\graphics project\package\computer-graphics--master\PROJECT\obj\Debug\PROJECT.Properties.Resources.resources
+E:\graphics project\package\computer-graphics--master\PROJECT\obj\Debug\PROJECT.csproj.GenerateResource.cache
+E:\graphics project\package\computer-graphics--master\PROJECT\obj\Debug\PROJECT.exe
+E:\graphics project\package\computer-graphics--master\PROJECT\obj\Debug\PROJECT.pdb
+E:\graphics project\package\package_y\PROJECT\bin\Debug\PROJECT.exe.config
+E:\graphics project\package\package_y\PROJECT\bin\Debug\PROJECT.exe
+E:\graphics project\package\package_y\PROJECT\bin\Debug\PROJECT.pdb
+E:\graphics project\package\package_y\PROJECT\obj\Debug\PROJECT.csprojAssemblyReference.cache
+E:\graphics project\package\package_y\PROJECT\obj\Debug\PROJECT.Form1.resources
+E:\graphics project\package\package_y\PROJECT\obj\Debug\PROJECT.Properties.Resources.resources
+E:\graphics project\package\package_y\PROJECT\obj\Debug\PROJECT.csproj.GenerateResource.cache
+E:\graphics project\package\package_y\PROJECT\obj\Debug\PROJECT.exe
+E:\graphics project\package\package_y\PROJECT\obj\Debug\PROJECT.pdb
